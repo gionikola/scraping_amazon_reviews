@@ -1,2 +1,2 @@
-# scraping_amazon_reviews
-Scraping Amazon product reviews.
+# Scraping Amazon Product Reviews
+### Work in Progress
